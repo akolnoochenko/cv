@@ -1,6 +1,6 @@
 # Andrey Kolnoochenko
 
-Software achitect with DevOps mindset.
+Teamlead with DevOps mindset.
 
 Education: Mendeleyev University of Chemical Technology of Russia, Computer Aided Process Engeneering dept. PhD in computer science. 
 
@@ -17,6 +17,8 @@ AWS technologies: S3, EC2, SQS, OpsWorks, SNS, Cognito, IAM, Route53, CloudWatch
 Deploy: Docker (+ docker compose, + docker swarm), fabric
 
 High performance computing: nVidia CUDA
+
+CI: Phabricator/Harbormaster
 
 Other skills: Linux, bash, iptables, git, video streaming/translation stuff (Wowza, nginx RTMP server, HLS streams), basic HTML/CSS/JS, Swift
 
