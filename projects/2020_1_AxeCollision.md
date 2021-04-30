@@ -3,7 +3,7 @@
 It was an isteresting combination of three parts:
 - Promo landings for two extensions
 - register API for two Twitch extensions. Used 
-- Twitch voting extension with drawing of variants in any place of the screen. It's better one-time see:
+- Twitch voting extension with drawing of variants in any place of the screen. It's better to see once:
 ![Three circles question](./2020_1_AxeCollision_1.png)
 
 ## Stack
